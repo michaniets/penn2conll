@@ -22,6 +22,8 @@ See [ud-coding](https://github.com/michaniets/ud-coding) for a script providing 
 
 ### Usage
 
+Without any options, the script will preserve the information of each node it encounters in the CoNLL-U structure (including CODE elements).
+
 ```bash
 python script_name.py [OPTIONS] <input_psd_file> <output_conllu_file>
 ```
