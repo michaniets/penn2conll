@@ -18,7 +18,7 @@ It is a **graph converter** and does not perform grammar conversion. The tool ex
   - **CoNLL-U Viewer**: [Universal Dependencies Viewer](https://universaldependencies.org/conllu_viewer.html).
 - Offers options for customizing the output, including metadata adjustments and handling of 'CODE' strings.
 
-See [ud-coding][https://github.com/michaniets/ud-coding] for a script providing a function similar to *CorpusSearch*'s coding queries.
+See [ud-coding](https://github.com/michaniets/ud-coding) for a script providing a function similar to *CorpusSearch*'s coding queries.
 
 ---
 
