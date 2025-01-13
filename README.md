@@ -20,11 +20,7 @@ It is a **graph converter** and does not perform grammar conversion. The tool ex
 
 See [ud-coding](https://github.com/michaniets/ud-coding) for a script providing a function similar to *CorpusSearch*'s coding queries.
 
----
-
-## Usage
-
-### Command-line Arguments
+### Usage
 
 ```bash
 python script_name.py [OPTIONS] <input_psd_file> <output_conllu_file>
