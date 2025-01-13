@@ -1,0 +1,69 @@
+# sent_id = 116X-MARIE-DE-FRANCE-MCVF-R,1.4
+# text = Ki Deus ad duné escïence E de parler bone eloquence Ne s' en deit taisir ne celer ,
+1	_	_	_	_	type=node	0	IP-MAT	_	_
+2	_	_	_	_	type=node	1	NP-SBJ	_	_
+3	_	_	_	_	type=node	2	CP-FRL	_	_
+4	_	_	_	_	type=node	3	WNP-1	_	_
+5	Ki	_	_	_	type=word	4	WPRO	_	_
+6	_	_	_	_	type=node	3	IP-SUB	_	_
+7	*T*-1	_	_	_	type=trace	6	NP-DTV	_	_
+8	_	_	_	_	type=node	6	NP-SBJ	_	_
+9	Deus	_	_	_	type=word	8	NPRS	_	_
+10	_	_	_	_	type=code	6	CODE	_	<w_lemme="avoir">
+11	ad	_	_	_	type=word	6	AJ	_	_
+12	_	_	_	_	type=code	6	CODE	_	<$$w>
+13	duné	_	_	_	type=word	6	VPP	_	_
+14	_	_	_	_	type=node	6	NP-ACC	_	_
+15	_	_	_	_	type=node	14	NP	_	_
+16	escïence	_	_	_	type=word	15	NCS	_	_
+17	_	_	_	_	type=code	14	CODE	_	<lb$$>
+18	_	_	_	_	type=node	14	CONJP	_	_
+19	E	_	_	_	type=word	18	CONJO	_	_
+20	_	_	_	_	type=node	18	NP	_	_
+21	_	_	_	_	type=node	20	PP	_	_
+22	de	_	_	_	type=word	21	P	_	_
+23	_	_	_	_	type=node	21	IP-INF	_	_
+24	_	_	_	_	type=code	23	CODE	_	<w_lemme="parler">
+25	parler	_	_	_	type=word	23	VX	_	_
+26	_	_	_	_	type=code	20	CODE	_	<$$w>
+27	bone	_	_	_	type=word	20	ADJ	_	_
+28	eloquence	_	_	_	type=word	20	NCS	_	_
+29	_	_	_	_	type=code	1	CODE	_	<lb$$>
+30	Ne	_	_	_	type=word	1	NEG	_	_
+31	_	_	_	_	type=node	1	CL-NP-2	_	_
+32	s'	_	_	_	type=word	31	CL	_	_
+33	_	_	_	_	type=node	1	CL-PP	_	_
+34	en	_	_	_	type=word	33	CL	_	_
+35	_	_	_	_	type=code	1	CODE	_	<w_lemme="devoir">
+36	deit	_	_	_	type=word	1	MDJ	_	_
+37	_	_	_	_	type=code	1	CODE	_	<$$w>
+38	_	_	_	_	type=node	1	IP-INF	_	_
+39	*ICH*-2	_	_	_	type=trace	38	NP-RFL	_	_
+40	_	_	_	_	type=node	38	VX	_	_
+41	taisir	_	_	_	type=word	40	VX	_	_
+42	ne	_	_	_	type=word	40	CONJO	_	_
+43	_	_	_	_	type=code	40	CODE	_	<w_lemme="celer">
+44	celer	_	_	_	type=word	40	VX	_	_
+45	_	_	_	_	type=code	1	CODE	_	<$$w>
+46	,	_	_	_	type=word	1	PONFP	_	_
+47	_	_	_	_	type=code	1	CODE	_	<lb$$>
+
+# sent_id = 116X-MARIE-DE-FRANCE-MCVF-R,1.5
+# text = Ainz se deit voluntiers mustrer .
+1	_	_	_	_	type=node	0	IP-MAT	_	_
+2	_	_	_	_	type=node	1	ADVP	_	_
+3	Ainz	_	_	_	type=word	2	ADVR	_	_
+4	*con*	_	_	_	type=trace	1	NP-SBJ	_	_
+5	_	_	_	_	type=node	1	CL-NP-1	_	_
+6	se	_	_	_	type=word	5	CL	_	_
+7	_	_	_	_	type=code	1	CODE	_	<w_lemme="devoir">
+8	deit	_	_	_	type=word	1	MDJ	_	_
+9	_	_	_	_	type=code	1	CODE	_	<$$w>
+10	_	_	_	_	type=node	1	IP-INF	_	_
+11	*ICH*-1	_	_	_	type=trace	10	NP-RFL	_	_
+12	_	_	_	_	type=node	10	ADVP	_	_
+13	voluntiers	_	_	_	type=word	12	ADV	_	_
+14	mustrer	_	_	_	type=word	10	VX	_	_
+15	.	_	_	_	type=word	1	PONFP	_	_
+16	_	_	_	_	type=code	1	CODE	_	<lb$$>
+
